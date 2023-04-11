@@ -1,0 +1,67 @@
+.button1{
+    position: fixed; top:20px; left:600px;
+}
+
+.button2{
+    position: fixed; top:20px; left:710px;
+}
+
+.button3{
+    position: fixed; top:20px; left:800px;
+}
+
+.back-button{
+    position: fixed; top:-23px; left: 575px;
+}
+
+.back2-button{
+    position: fixed; top:-23px; left: 0 px;
+}
+
+.back3-button{
+    position: fixed; top:-23px; left:175px;
+}
+
+.back4-button{
+    position: fixed; top:-23px; left:975px;
+}
+
+.back5-button{
+    position: fixed; top:-23px; left:1150px;
+}
+
+.Position{
+    position: relative;top: 100px; left: 300px;
+}
+
+.What{
+    position: relative;top: 100px;left: 350px;
+}
+
+.A{
+    position: relative;bottom: -400px; left: -710px;
+}
+
+.B{
+    position: relative;top: -100px;left: 350px;
+}
+
+.t1{
+    font-size: 50px;
+    position: relative; top: -859px; left: -270px;
+}
+
+.t2{
+    font-size: 50px;
+    position: relative; top: -1080px; left: 300px;
+}
+
+.t3{
+    font-size: 50px;
+    position: relative; top: -1000px; left: -270px;
+}
+
+.t4{
+    font-size: 50px;
+    position: relative; top: -1270px; left: 300px;
+}

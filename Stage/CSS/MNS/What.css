@@ -1,0 +1,55 @@
+.button1{
+    position: fixed; top:20px; left:600px;
+}
+
+.button2{
+    position: fixed; top:20px; left:710px;
+}
+
+.button3{
+    position: fixed; top:20px; left:800px;
+}
+
+.back-button{
+    position: fixed; top:-23px; left: 575px;
+}
+
+.back2-button{
+    position: fixed; top:-23px; left: 0 px;
+}
+
+.back3-button{
+    position: fixed; top:-23px; left:175px;
+}
+
+.back4-button{
+    position: fixed; top:-23px; left:975px;
+}
+
+.back5-button{
+    position: fixed; top:-23px; left:1150px;
+}
+
+h1{
+    position: relative; top: 120px;
+}
+
+h2{
+    position: relative; top: 140px;
+}
+
+.map{
+    position: relative; top: 160px;
+}
+
+.map1{
+    position: relative; left: 4px;
+}
+
+.map2{
+    position: relative; left: 10px;
+}
+
+.map3{
+    position: relative; left: 17px;
+}
